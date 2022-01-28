@@ -1,0 +1,11 @@
+.userLogo {
+    width: 35px;
+    height: 35px;
+    background: dimgrey;
+    border-radius: 50%;
+}
+
+.userInicials {
+    margin-top: 10%;
+    margin-left: 15%;
+}

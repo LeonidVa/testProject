@@ -1,0 +1,23 @@
+.logoOfCategory {
+    display: flex;
+    width: 35px;
+    height: 35px;
+    background: dimgrey;
+    border-radius: 50%;
+    text-align: center;
+    align-items: center;
+    padding-left: .2rem;
+}
+
+.categories {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.nameOfCategory {
+    display: none;
+    margin-left: .2rem;
+    align-items: center;
+    text-align: center;
+    margin-top: .3rem;
+}

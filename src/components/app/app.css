@@ -1,0 +1,16 @@
+.content {
+    display: flex;
+    height: 1500px;
+    position: fixed;
+    width: 100%;
+}
+
+#root{
+    height: 1500px;
+}
+
+.headerUserSearch{
+    height: 100%;
+    width: 100%;
+}
+

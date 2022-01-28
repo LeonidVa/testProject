@@ -1,0 +1,13 @@
+.menu:hover .nameCompany {
+    display: flex;
+
+}
+
+.menu:hover .nameOfCategory {
+    display: flex;
+}
+
+.menu:hover .logo {
+    padding-left: .2rem;
+}
+

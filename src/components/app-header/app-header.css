@@ -1,0 +1,8 @@
+.appHeader {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 50px;
+    background-color: darkgrey;
+    flex: 15;
+}
